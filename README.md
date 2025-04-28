@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/hanweg-mcp-pdf-tools)
+
 # WORK IN PROGRESS - USE WITH CAUTION - Windows:
 
 # MCP PDF Tools Server
